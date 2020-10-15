@@ -1,0 +1,25 @@
+Day 1:
+  Understanding of requirement.
+  divide work into three part
+  1. Front end
+  2. Flask Api with ORM
+  3. Backend
+  Preparation of json schema for apis.
+Day 2:
+  Front end part:
+  Basic desgin of UI part:
+  1. Display particular Inventory item info part
+  2. Add new item to inventory part
+  3. Display inventory list
+Day 3:
+  Api Development part:
+  1. Research on api design patterns.
+  2. Started developing api's
+  3. integration with mysql database using SQLschmey ORM extension.
+Day 4:
+  Front end to backend integration testing( only in case of add item to inventory usecase).
+  After successfull integration of put inventory api. started working on remaining part.
+Day 5:
+  Implementaion of remaining api's and frontend work.
+Day 6:
+  manual unit testing and bug fixes.
